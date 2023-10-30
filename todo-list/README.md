@@ -5,7 +5,7 @@ Technical domain : HTML, CSS, JavaScripts, React App
 
 ## A description of what the project is for.
 This web application usually is a todolist where we can add the lists of things we are working upon which is why we call as todolist, a list of things which has to be done.
-Link to the site: https://todo-list-pav1.vercel.app/
+Link to the site: https://todo-list-ai615ctwn-pav1.vercel.app
 
 PREVIEW:
 
