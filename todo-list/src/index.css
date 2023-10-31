@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-image:url('https://i.pinimg.com/originals/60/40/e3/6040e3ac4664a275635f8a2e98fffdb7.gif') ;
+  background-size: cover;
+  
+}
+
+html{
+  font-size: 62.5%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
