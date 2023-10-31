@@ -1,0 +1,62 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: 'Noto Sans', sans-serif;
+
+  }
+  section {
+    background-image:url('https://thumbs.dreamstime.com/b/note-pad-cup-coffee-calculator-computer-keyboard-pen-colorful-pastel-colored-background-171843791.jpg');
+    min-height:100vh;
+    width:100%;
+    display:flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+  }
+  .container{
+    width: 90%;
+    max-width:400px;
+    background-color: rgb(14, 121, 148);
+    overflow:hidden;
+  }
+  .display{
+    background-color: #8b9c8f;
+    text-align:right;
+    padding:20px;
+    font-size:30px;
+  }
+  .display-1{
+    opacity:0.4;
+    font-size:20px;
+    height:25px;
+    overflow:hidden;
+  }
+  .all_buttons{
+    color:whitesmoke;
+    display:grid;
+    grid-template:repeat(4,1fr)/repeat(4,1fr);
+  }
+  .button{
+    border: 0.5px solid rgba(92,92,92,0.137);
+    height: 100px;
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:30px;
+    cursor:pointer;
+  }
+  .button:hover{
+    background-color:rgb(30,43,46);
+  }
+
+  .btn-equal{
+    grid-column:3/5;
+  }
+  
