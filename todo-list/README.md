@@ -9,5 +9,7 @@ Link to the site: [https://todo-list-ai615ctwn-pav1.vercel.app](https://todo-lis
 
 PREVIEW:
 
-<img width="602" alt="Screenshot 2023-10-30 230040" src="https://github.com/pavaniarra18/lgm-webdevelopment/assets/122223025/a4f44a58-6ed0-4154-b35b-662ed7c450b8">
-<img width="609" alt="Screenshot 2023-10-30 230233" src="https://github.com/pavaniarra18/lgm-webdevelopment/assets/122223025/3976198e-3abe-4a67-b567-96170aa7bb5a">
+<img width="959" alt="Screenshot 2023-10-31 112234" src="https://github.com/pavaniarra18/lgm-webdevelopment/assets/122223025/71f09a2b-6a96-40c7-acd4-59dd3b66bccc">
+
+<img width="959" alt="Screenshot 2023-10-31 112457" src="https://github.com/pavaniarra18/lgm-webdevelopment/assets/122223025/114e12c6-a89c-4eeb-ac4c-a6befd46f855">
+
